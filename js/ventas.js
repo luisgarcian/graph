@@ -2,7 +2,7 @@
 $(function () {
    
   $.ajax({
-    url: "ventasnetas.php",
+    url: "../ventasnetas.php",
     type: "GET",
     async: true,
     contentType: "text/json; charset=utf-8",
