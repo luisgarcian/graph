@@ -20,8 +20,17 @@
 </head>
 <body>
 
+<div id="modalWrapper">
+        <a id="close-modal" class="close-modal icon" href="javascript:void(0)"></a>
+        <h3 id="modal-title"></h3>
+        <div class="modal" id='modal'>
+        </div>
+    </div>
+
+<div id="operaciones" class="hidden">
 <div class="chartCont border-right" id="chart-container">
             FusionCharts will load here.
+</div>
 </div>
 
 </body>
