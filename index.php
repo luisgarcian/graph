@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -22,7 +21,6 @@
   ></script>
 
 </head>
-
 <body>
 
 <div class="chartCont border-right" id="chart-container">
