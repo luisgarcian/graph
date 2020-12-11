@@ -13,9 +13,6 @@
   <script type="text/javascript"
       src="js/themes/fusioncharts.theme.zune.js"
   ></script>
-  <script type="text/javascript"
-      src="js/themes/fusioncharts.theme.management-dashboards.js"
-  ></script>
   <script  type="text/javascript"
       src="js/ventas.js"
   ></script>
